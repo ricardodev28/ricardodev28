@@ -1,6 +1,6 @@
 
 
-# Oi, me chamo [Ricardo F. Rodrigues] 👋
+# Oi, me chamo Ricardo F. Rodrigues 👋
 
 ### Sobre mim
 
