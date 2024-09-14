@@ -9,7 +9,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) |    
+🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) |  ] @ [ [Cubos Academy](https://cubos.academy/) |    
 
 Análise e Desenvolvimento de Sistemas | Unicesumar 
 
@@ -21,7 +21,7 @@ Análise e Desenvolvimento de Sistemas | Unicesumar
 
 📚 Aprendendo: Harmonia Musical e Expressão Guitarristica
 
-### Eu já trabalhei com Engenharia de Projetos 🔧
+### Eu já trabalhei com Engenharia de Projetos  🔧
 
 **Tecnologias e Ferramentas**
 
