@@ -9,6 +9,8 @@
 
 👩‍💻 Atualmente eu trabalho com [Desenvolvimento Web] @ [Freelancer]
 
+🐍 Possuo também sólida experiência com **Python**, linguagem amplamente adotada em inteligência artificial, ciência de dados e APIs. Utilizo frameworks como **FastAPI** e **Django** para o desenvolvimento ágil e eficiente de aplicações web e orientadas a dados.
+
 🔎 Também sou curioso sobre Inteligência Artificial e Engenharia de Software
 
 ✒️ Eu gosto de no meu tempo livre: Ouvir Southern Rock | Blues Rock | Hard Rock | Tocar Guitarra
