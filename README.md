@@ -2,11 +2,12 @@
 
 ### 💻 Sobre mim
 
-Sou **desenvolvedor web fullstack**, com experiência em **Front-End** e **Back-End**, atuando no desenvolvimento de aplicações web modernas, APIs e soluções voltadas à integração de dados e automação.
+Sou **desenvolvedor web **, com experiência em **Front-End** e mais no **Back-End**, atuando no desenvolvimento de aplicações web modernas, APIs e soluções voltadas à integração de dados e automação.
 
 🎓 **Formação:**  
-- [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)  
+
 - Análise e Desenvolvimento de Sistemas | **Unicesumar**
+- - [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)  
 
 💼 **Atuação Atual:**  
 Atualmente, atuo como **Desenvolvedor Web**, utilizando **JavaScript**, **Python** e **Java** no desenvolvimento e manutenção de soluções para **plataformas web e mobile**, abrangendo setores como **saúde** e **alimentação**.  
@@ -36,7 +37,9 @@ Adoto **Node.js (JavaScript/TypeScript)** amplamente para **APIs e microserviço
 Nos momentos livres, gosto de ouvir **Southern Rock**, **Blues Rock** e **Hard Rock**, além de tocar **guitarra**, estudando **harmonia musical** e **expressão guitarrística**.
 
 🔧 **Experiência Anterior:**  
-Atuei com **Engenharia de Projetos**, unindo visão técnica, planejamento e execução eficiente — experiência que enriquece minha abordagem no desenvolvimento de software.
+Professor de Tecnologias: Robótica e Programação em Linguagem C  e C++ e Python;
+Professor de Matemática especialista em Ciências Exatas(Matemática | Física | Quimica);
+Engenheiro especialista em estruturas, Atuei com **Engenharia de Projetos Estruturais**, unindo visão técnica, planejamento, supervisão  e execução eficiente — experiência que enriquece minha abordagem no desenvolvimento de software.
 
 ---
 
