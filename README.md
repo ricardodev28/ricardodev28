@@ -37,9 +37,11 @@ Adoto **Node.js (JavaScript/TypeScript)** amplamente para **APIs e microserviço
 Nos momentos livres, gosto de ouvir **Southern Rock**, **Blues Rock** e **Hard Rock**, além de tocar **guitarra**, estudando **harmonia musical** e **expressão guitarrística**.
 
 🔧 **Experiência Anterior:**  
-Professor de Tecnologias: Robótica e Programação em Linguagem C  e C++ e Python;
+Professor de Tecnologia e Inovação : Robótica e Programação em Linguagem C  e C++ e Python;
+
 Professor de Matemática especialista em Ciências Exatas(Matemática | Física | Quimica);
-Engenheiro especialista em estruturas, Atuei com **Engenharia de Projetos Estruturais**, unindo visão técnica, planejamento, supervisão  e execução eficiente — experiência que enriquece minha abordagem no desenvolvimento de software.
+
+Engenheiro especialista em estruturas, atuei com **Engenharia de Projetos Estruturais**, unindo visão técnica, planejamento, supervisão  e execução eficiente — experiência que enriquece minha abordagem no desenvolvimento de software.
 
 ---
 
