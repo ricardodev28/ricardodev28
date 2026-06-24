@@ -130,4 +130,5 @@ Sempre aberto para networking, parcerias de código, colaboração em projetos o
 
 * **LinkedIn:** [ricardofrodriguess](https://www.linkedin.com/in/ricardofrodriguess)
 * **GitHub:** [ricardodev28](https://github.com/ricardodev28)
-* **Email:** [ricardoferreirarodrigues@ymail.com]
+* **Email:**
+  wricardoferreirarodrigues@ymail.com
