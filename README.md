@@ -31,7 +31,7 @@ Adicionalmente, estou expandindo meu portfólio técnico em **Java (Spring Boot)
 ## 🛠️ Stack Tecnológica
 
 ### Tecnologias Principais
-### Tecnologias Principais
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,7 +49,7 @@ Adicionalmente, estou expandindo meu portfólio técnico em **Java (Spring Boot)
 | **Back-End** | Node.js, Express, Java (Spring Boot), Python (FastAPI, Django) |
 | **Bancos de Dados**| PostgreSQL, MySQL, MongoDB |
 | **DevOps & Cloud** | Git, GitHub, Docker, AWS (Fundamentos) |
-| **Ferramentas** | VS Code, Postman, Figma |
+| **Ferramentas** | VS Code, Cursor , Windsurf,  Visual Studio, IntellijIDEA , Postman, Figma |
 
 ---
 
@@ -124,4 +124,4 @@ Sempre aberto para networking, parcerias de código, colaboração em projetos o
 
 * **LinkedIn:** [ricardofrodriguess](https://www.linkedin.com/in/ricardofrodriguess)
 * **GitHub:** [ricardodev28](https://github.com/ricardodev28)
-* **Email:** [ricardoferreirarodrigues@ymail.com](mailto: ricardoferreirarodrigues@ymail.com@ymail.com) 
+* **Email:** [ricardoferreirarodrigues@ymail.com]
