@@ -1,99 +1,127 @@
-# 👋 Oi, eu sou o **Ricardo F. Rodrigues**
+# Olá, eu sou Ricardo Ferreira Rodrigues 👋
 
-### 💻 Sobre mim
+## 🚀 Sobre Mim
 
-Sou **desenvolvedor web **, com experiência em **Front-End** e mais no **Back-End**, atuando no desenvolvimento de aplicações web modernas, APIs e soluções voltadas à integração de dados e automação.
+Sou um profissional com atuação híbrida entre **Engenharia, Tecnologia e Desenvolvimento de Software**, combinando mais de 25 anos de experiência em engenharia civil, gestão de projetos e infraestrutura com minha sólida transição e atuação no ecossistema de desenvolvimento de sistemas (*"do concreto para o código"*).
 
-🎓 **Formação:**  
+> 💡 **Visão Sistêmica:** Minha experiência em ambientes industriais, corporativos e projetos de alta complexidade me proporciona uma habilidade diferenciada para identificar problemas, modelar soluções e desenvolver sistemas perfeitamente alinhados às necessidades reais dos negócios.
 
-- Análise e Desenvolvimento de Sistemas | **Unicesumar**
-- - [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)  
-
-💼 **Atuação Atual:**  
-Atualmente, atuo como **Desenvolvedor Web**, utilizando **JavaScript**, **Python** e **Java** no desenvolvimento e manutenção de soluções para **plataformas web e mobile**, abrangendo setores como **saúde** e **alimentação**.  
-
-Paralelamente, estou desenvolvendo um **projeto mobile com React Native**, explorando o potencial do **JavaScript** para criação de aplicações **multiplataforma**, com **interfaces modernas e responsivas**.
-
-Tenho ampla experiência com **HTML5**, **CSS3**, **Node.js**, **React**, **Vue.js**, **Next.js** e **TypeScript**, além de práticas consolidadas de **versionamento com Git, GitHub e VS Code**.  
-
-No **Back-End**, utilizo **Node.js (JavaScript/TypeScript)** para o desenvolvimento de **APIs** e **microserviços**, integrando soluções com bancos de dados **PostgreSQL** e **MongoDB**, garantindo **alta performance e escalabilidade**.
-
-🐍 **Experiência Técnica:**  
-Possuo sólida experiência com **Python**, linguagem amplamente utilizada em **inteligência artificial**, **ciência de dados** e **desenvolvimento de APIs**.  
-Utilizo frameworks como **FastAPI** e **Django** para o desenvolvimento ágil e eficiente de aplicações web e orientadas a dados.
-
-☁️ **Infraestrutura e Arquitetura:**  
-Conhecimentos em **Docker**, **AWS** e **MongoDB**, com foco em **infraestrutura em nuvem** e **deploy automatizado** de aplicações modernas.  
-Adoto **Node.js (JavaScript/TypeScript)** amplamente para **APIs e microserviços**, sempre priorizando boas práticas e escalabilidade.
-
-🚀 **Áreas de Interesse:**  
-- Inteligência Artificial  
-- Engenharia de Software  
-- Arquitetura de Sistemas  
-- DevOps e Integração Contínua (CI/CD)  
-- Aplicações Multiplataforma com React Native  
-
-🎸 **Curiosidades:**  
-Nos momentos livres, gosto de ouvir **Southern Rock**, **Blues Rock** e **Hard Rock**, além de tocar **guitarra**, estudando **harmonia musical** e **expressão guitarrística**.
-
-🔧 **Experiência Anterior:**  
-Professor de Tecnologia e Inovação : Robótica e Programação em Linguagem C  e C++ e Python;
-
-Professor de Matemática especialista em Ciências Exatas(Matemática | Física | Quimica);
-
-Engenheiro especialista em estruturas, atuei com **Engenharia de Projetos Estruturais**, unindo visão técnica, planejamento, supervisão  e execução eficiente — experiência que enriquece minha abordagem no desenvolvimento de software.
+Atualmente estou concluindo a graduação em **Análise e Desenvolvimento de Sistemas**, direcionando minha carreira para a criação de soluções tecnológicas aplicadas à engenharia, automação de processos, análise de dados e desenvolvimento de aplicações web e mobile de alto impacto.
 
 ---
 
-## 🧩 Tecnologias e Ferramentas
+## 🎓 Formação Acadêmica
 
-### 🚀 Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff)
-
-### 🖥️ Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=fff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Back-End e Infraestrutura
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
-
-### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-
-### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-
----
-## 📚 Cursos Realizados
-
-- ![DDS Cubos Academy](https://img.shields.io/badge/-DDS%20Cubos%20Academy-19272E?style=for-the-badge)
-- ![DBE Cubos Academy](https://img.shields.io/badge/-DBE%20Cubos%20Academy-19272E?style=for-the-badge)
+* **🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas** – *UniCesumar* (Conclusão prevista em 2026)
+* **💻 Desenvolvimento Full Stack** – *Cubos Academy*
+* **🏗️ Pós-Graduação em Engenharia de Estruturas**
+* **📐 Graduação em Engenharia Civil**
+* **🧮 Licenciatura em Matemática**
 
 ---
 
-## 📭 Entre em contato comigo!
+## 💼 Atuação Atual
 
-<div>
-  <a href="https://www.instagram.com/ricardoferreirarod?igsh=dGM2d3hjeWVhaWg4" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ricardo-f-r-45a7542b1" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>  
-</div>
+Atuo como **Desenvolvedor Full Stack**, participando ativamente do ciclo de vida de aplicações web e mobile, construindo APIs REST robustas e realizando integrações de dados eficientes. Tenho experiência prática no desenvolvimento de soluções para os segmentos de **saúde e alimentação**, utilizando o ecossistema JavaScript/TypeScript.
 
+Adicionalmente, estou expandindo meu portfólio técnico em **Java (Spring Boot)** e **C# (.NET)**, com foco específico em engenharia de software aplicada, BIM, automação técnica e sistemas corporativos de grande porte.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Tecnologias Principais
+### Tecnologias Principais
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Hard Skills por Categoria
+
+| Categoria | Tecnologias e Frameworks |
+| :--- | :--- |
+| **Front-End** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vue.js, Bootstrap |
+| **Back-End** | Node.js, Express, Java (Spring Boot), Python (FastAPI, Django) |
+| **Bancos de Dados**| PostgreSQL, MySQL, MongoDB |
+| **DevOps & Cloud** | Git, GitHub, Docker, AWS (Fundamentos) |
+| **Ferramentas** | VS Code, Postman, Figma |
+
+---
+
+## 🐍 Python e Desenvolvimento de Soluções
+
+Possuo sólida experiência no desenvolvimento de aplicações utilizando **Python**, aplicando a linguagem em rotinas de automação, ciência de dados, inteligência artificial e arquiteturas web de alta performance. 
+
+* **Construção de APIs & Ecossistema Web:** Desenvolvimento ágil focado em performance utilizando frameworks modernos como **FastAPI** e **Django** para a entrega de soluções robustas orientadas a dados.
+
+---
+
+## 🏗️ O Diferencial: Engenharia + Tecnologia
+
+Meu principal valor de mercado está na intersecção entre a bagagem sênior de engenharia e a agilidade do desenvolvimento de software de última geração.
+
+### Bagagem Técnica de Domínio:
+* Engenharia Estrutural e Coordenação Técnica
+* BIM (Building Information Modeling) e Modelagem Digital
+* Gestão de Projetos Complexos, Contratos e Fornecedores
+* Infraestrutura Industrial, Corporativa e Facilities Management
+* Planejamento e Controle de Obras (PCO)
+
+> 🎯 **Objetivo Atual:** Conectar esse profundo domínio técnico ao desenvolvimento de sistemas sob medida, plugins de automação (como Revit API) e ferramentas focadas na transformação digital da engenharia e construção civil.
+
+---
+
+## 📂 Projetos em Destaque
+
+* **🐾 Sistema Veterinário (Full Stack):** Aplicação robusta para gestão de clínicas e prontuários.
+* **🤖 Gerador de Currículos com IA:** Solução inteligente integrada a modelos de linguagem para otimização de perfis profissionais.
+* **🍏 NutriPlan:** Aplicativo mobile focado no acompanhamento nutricional e controle de dietas.
+* **📐 Engenharia Estrutural & Automação Técnica:** Conjunto de scripts e sistemas proprietários em desenvolvimento para cálculo de estruturas e integração BIM.
+
+---
+
+## 🎯 Áreas de Interesse e Pesquisa
+
+* Engenharia de Software & Arquitetura de Sistemas
+* Desenvolvimento Full Stack (Web e Mobile)
+* Inteligência Artificial & Ciência de Dados
+* BIM e Desenvolvimento para **Revit API** (C# / Python)
+* Computação em Nuvem, DevOps e Pipelines de CI/CD
+* Automação Industrial e Transformação Digital na Construção Civil
+
+---
+
+## 🔧 Experiências Anteriores Relevantes
+
+### 🤖 Professor de Tecnologia e Inovação
+* **Foco:** Programação, Robótica Educacional e Cultura Maker.
+* **Ferramentas:** Arduino, Micro:bit, eletrônica básica e automação.
+* **Linguagens:** C, C++ e Python.
+
+### 🧮 Professor de Matemática
+* **Foco:** Matemática, Física, Química e Raciocínio Lógico Avançado.
+* **Aplicação:** Forte base analítica para modelagem de algoritmos e resolução de problemas complexos.
+
+### 👷 Engenheiro Civil / Coordenador Técnico
+* **Foco:** Desenvolvimento e validação de projetos estruturais, supervisão de equipes multidisciplinares e controle rigoroso de cronogramas e orçamentos.
+
+---
+
+## 🎸 Curiosidades
+
+Nas horas livres, desligo os compiladores para focar na música. Sou entusiasta do **Southern Rock, Blues Rock e Hard Rock**, e dedico meu tempo livre ao estudo de guitarra elétrica, teoria musical, harmonia funcional e improvisação.
+
+---
+
+## 📫 Vamos nos conectar?
+
+Sempre aberto para networking, parcerias de código, colaboração em projetos open-source ou oportunidades profissionais que unam tecnologia e engenharia.
+
+* **LinkedIn:** [ricardofrodriguess](https://www.linkedin.com/in/ricardofrodriguess)
+* **GitHub:** [ricardodev28](https://github.com/ricardodev28)
+* **Email:** [rodrigues.ff.ricardo@gmail.com](mailto:rodrigues.ff.ricardo@gmail.com) *(Dica: substitua pelo seu e-mail principal, se desejar)*
